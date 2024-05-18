@@ -220,7 +220,7 @@ See the examples for the difference.
 
 * [Documentation about aspects](https://www.bazel.io/versions/master/docs/skylark/aspects.html).
 
-* [Parameterized aspect design document](https://www.bazel.io/designs/skylark/parameterized-aspects.html).
+* [Parameterized aspect design document](https://www.bazel.io/designs/skylark/parameterized-aspects.html) ([archived version](https://web.archive.org/web/20210726201105/https://bazel.build/designs/skylark/parameterized-aspects.html)).
 
 * [e4b](https://github.com/bazelbuild/e4b): eclipse for bazel uses an aspect implementation.
 
